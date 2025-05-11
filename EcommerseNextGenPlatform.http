@@ -1,0 +1,6 @@
+@EcommerseNextGenPlatform_HostAddress = http://localhost:5072
+
+GET {{EcommerseNextGenPlatform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
